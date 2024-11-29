@@ -1,0 +1,1 @@
+Afternoon of playing about and exploring how you can use the XOR operater to swap two variables without using a tempoary variable. Works very effectively for intergers in C#, not so much characters and strings.
